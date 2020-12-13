@@ -1,2 +1,1 @@
-# beproj_php
-PHP folders
+https://github.com/rishi1111/PortalX/wiki
